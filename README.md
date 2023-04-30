@@ -1,4 +1,4 @@
-# EDA-Stackoverflow-data-2020
+# EDA-Stackoverflow-Developer-Survey-2020
 ## Introduction
 In this project, we will analyze the StackOverflow developer survey dataset using Python's data analysis and visualization libraries. The dataset contains responses to an annual survey conducted by StackOverflow. We will limit our analysis to the following areas:
 
